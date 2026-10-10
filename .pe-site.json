@@ -1,0 +1,7 @@
+{
+ "generator": "pe publish build",
+ "name": "pe-pages",
+ "owner": "jprescod",
+ "repo": "pe-pages",
+ "schema": "pe-site/1"
+}

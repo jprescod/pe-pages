@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jprescod.github.io/pe-pages/sitemap.xml
